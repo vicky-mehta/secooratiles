@@ -1,0 +1,32 @@
+[12-Sep-2018 14:46:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[13-Sep-2018 01:08:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[14-Sep-2018 01:03:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[15-Sep-2018 00:47:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[16-Sep-2018 10:58:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[16-Sep-2018 13:14:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[17-Sep-2018 20:44:23 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9
+[17-Sep-2018 20:44:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-includes/theme-compat/footer.php on line 9

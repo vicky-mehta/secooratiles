@@ -1,0 +1,11 @@
+[12-Sep-2018 14:46:18 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[13-Sep-2018 01:08:04 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[14-Sep-2018 01:03:16 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[15-Sep-2018 00:49:24 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[16-Sep-2018 02:54:47 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[16-Sep-2018 10:57:48 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[16-Sep-2018 13:14:48 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[18-Sep-2018 05:04:57 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[18-Sep-2018 05:04:58 Etc/GMT] PHP Fatal error:  Class 'SimplePie_Sanitize' not found in /home/secooratiles/public_html/wp-includes/class-wp-simplepie-sanitize-kses.php on line 20
+[24-Dec-2020 05:58:18 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/myexamplace/public_html/all_website/secooratiles/wp-includes/rss-functions.php on line 8
+[10-Aug-2022 21:49:28 UTC] Error reading Wordfence Firewall config data, configuration file could be corrupted or inaccessible. Path: /home/myexamplace/public_html/all_website/secooratiles/wp-content/wflogs/config.php

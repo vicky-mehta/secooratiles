@@ -1,0 +1,121 @@
+<?php
+/**
+ * The template for displaying Category pages
+ *
+ * Used to display archive-type pages for posts in a category.
+ *
+ * @link http://codex.wordpress.org/Template_Hierarchy
+ *
+ * @package WordPress
+ * @subpackage Twenty_Twelve
+ * @since Twenty Twelve 1.0
+ */
+
+get_header(); ?>
+  <section class="bs-body clearfix">
+  		<?php if ( have_posts() ) : ?>
+        
+<?php
+	$catid = get_query_var('cat'); //current category id
+	$category = get_category($catid);
+	$parent = $category->category_parent; //immediate parent
+	$parent2 = get_category($parent); //immediate parent
+	
+	$p1_1=get_category($category->category_parent);
+	$p2_1=get_category($p1_1->category_parent);
+	$parentCategory = get_category($parent);
+	//var_dump($parentCategory);
+
+?>
+<?php if(("Others"==$parentCategory->name) || ("Others"==$p2_1->name)) : ?>
+
+
+<?php else : ?>
+
+<?php endif ; ?>        
+        
+        
+        
+        
+        
+        
+        
+        <section class="bs-body-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="hide1 anim1" data-vp-add-class="animated bounceInUp" data-vp-remove-class="hide1" data-vp-offset="100"><?php printf( __( '%s', 'twentytwelve' ), '<span>' . single_cat_title( '', false ) . '</span>' ); ?></h1>
+                    </div>
+                </div>
+            </div>	
+        </section>
+        <section class="bs-body-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 clearfix">
+                    	<div class="row">
+							<?php
+                            /* Start the Loop */
+                            while ( have_posts() ) : the_post(); ?>
+                            
+                                <div class="col-md-4">
+                                <?php get_template_part( 'content', get_post_format() ); ?>
+                				</div>
+                            <?php endwhile;
+                			content_nav(null);
+                            //twentytwelve_content_nav( 'nav-below' );
+                            ?>  
+						</div>          
+
+                    </div>
+                    <div class="col-md-3 bs-sidebar bs-sidebar-product clearfix">
+                       <h3>Product Categories</h3>
+                        <ul class="bs-series-items">
+                          <?php wp_nav_menu( array('items_wrap' => '%3$s', 'theme_location' => 'product_menu' )); ?>
+                        </ul> 
+                        <h4 class="bs-pconce usefonticon"><a href="<?php echo get_permalink( 82 ); ?>">product concepts</a></h4>
+                        <h4 class="bs-tcalc"><a href="<?php echo get_permalink( 72 ); ?>">Tiles calculator</a></h4> 
+                        <?php get_sidebar(); ?>                   
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+		<?php else : ?>
+        <section class="bs-body-title">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="hide1 anim1" data-vp-add-class="animated bounceInUp" data-vp-remove-class="hide1" data-vp-offset="100"><?php printf( __( '%s', 'twentytwelve' ), '<span>' . single_cat_title( '', false ) . '</span>' ); ?></h1>
+                    </div>
+                </div>
+            </div>	
+        </section>        
+
+        <section class="bs-body-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 clearfix">
+							<p>No Post Found!</p>
+                    </div>
+                    <div class="col-md-3 bs-sidebar bs-sidebar-product clearfix">
+                       <h3>Product Categories</h3>
+                        <ul class="bs-series-items">
+                          <?php wp_nav_menu( array('items_wrap' => '%3$s', 'theme_location' => 'product_menu' )); ?>
+                        </ul> 
+                        <h4 class="bs-pconce usefonticon"><a href="<?php echo get_permalink( 82 ); ?>">product concepts</a></h4>
+                        <h4 class="bs-tcalc"><a href="<?php echo get_permalink( 72 ); ?>">Tiles calculator</a></h4> 
+                        <?php get_sidebar(); ?>                   
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+		<?php endif; ?>
+        
+    </section>
+	<!--bs-body clearfix-->
+
+	
+<?php //get_sidebar(); ?>
+<?php get_footer(); ?>

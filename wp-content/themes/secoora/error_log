@@ -1,0 +1,87 @@
+[05-May-2019 07:12:50 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/index.php on line 17
+[16-Nov-2019 00:31:41 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[16-Nov-2019 19:28:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[17-Nov-2019 20:09:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[18-Nov-2019 15:15:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[13-Dec-2019 02:37:58 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[14-Dec-2019 10:16:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[15-Dec-2019 02:57:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[16-Dec-2019 10:41:58 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[09-Jan-2020 20:31:33 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/image.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/image.php on line 12
+[10-Jan-2020 15:26:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/image.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/image.php on line 12
+[13-Jan-2020 13:59:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[14-Jan-2020 04:00:27 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[15-Jan-2020 16:32:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[16-Jan-2020 04:18:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/404.php on line 10
+[17-Jan-2020 16:33:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/image.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/image.php on line 12
+[18-Jan-2020 10:00:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/secooratiles/public_html/wp-content/themes/secoora/image.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/secooratiles/public_html/wp-content/themes/secoora/image.php on line 12
+[17-Apr-2020 02:28:31 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/404.php on line 10
+[18-Apr-2020 03:26:50 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/404.php on line 10
+[30-Jun-2021 00:20:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[30-Jun-2021 00:30:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[30-Jun-2021 01:30:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[01-Jul-2021 23:57:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[02-Jul-2021 01:54:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[04-Jul-2021 00:01:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[18-Nov-2021 04:15:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[18-Nov-2021 04:52:28 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[21-Nov-2021 15:04:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[23-Nov-2021 16:25:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[26-Nov-2021 19:28:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[14-Feb-2022 01:32:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[14-Feb-2022 01:45:04 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[14-Feb-2022 01:45:14 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[30-Apr-2022 21:55:06 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[30-Apr-2022 21:55:11 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
+[01-May-2022 16:30:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/myexamplace/public_html/all_website/secooratiles/wp-content/themes/secoora/index.php on line 17
